@@ -1,7 +1,4 @@
-TOA5,CR1000XSeries,CR1000X,22408,CR1000X.Std.04.02,CPU:Rautomead 03 - 2 min_KFA test_20220303.CR1X,26909,Table1,,,,,
 TIMESTAMP,RECORD,Furnace_Body_Avg,Die_1_Out_Avg,Die_2_Out_Avg,Die_3_Out_Avg,Die_4_Out_Avg,Die_In_All_Avg,Die_Temp_Avg,AC_Current_Avg,Water_Flow_GPM,Pulse_Avg,PTemp_C_Avg
-TS,RN,Deg F,Deg F,Deg F,Deg F,Deg F,Deg F,Deg F,Amps,Counts/Hz,Counts/Hz,Deg C
-,,Avg,Avg,Avg,Avg,Avg,Avg,Avg,Avg,Tot,Avg,Avg
 3/2/2022 11:20,0,508.3,69.47,50.69,68.28,50.66,51.6,197.8,70.6,0,0,20.1
 3/2/2022 11:22,1,637.7,69.5,50.74,68.07,51.12,51.64,256.5,70.68,0,0,20.11
 3/2/2022 11:24,2,773.7,69.6,51.02,67.83,51.46,51.65,330.5,70.82,0,0,20.14
